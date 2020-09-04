@@ -10,7 +10,7 @@
         android:id="@+id/textView"
         android:layout_width="50dp"
         android:layout_height="30dp"
-        android:text="Hello"
+        android:text="Hello world"
         tools:layout_editor_absoluteX="179dp"
         tools:layout_editor_absoluteY="147dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
